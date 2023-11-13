@@ -19,7 +19,7 @@ Scalability: This project is designed with scalability in mind, making it easy t
 Future Enhancements: We are committed to continuous improvement, with plans to enhance the project with features such as emotion recognition and mask detection to adapt to evolving needs.
 
 Getting Started
-To get started with this project, follow the installation and usage instructions provided in the Documentation.
+To get started with this project, follow the installation and usage instructions provided in the Documentation. and for further more queries related to this project feel free to connect through us with your comments we will try our best t rech to you.
 
 Contributing
 We welcome contributions from the open-source community. If you'd like to contribute, please review our Contribution Guidelines for more information.
